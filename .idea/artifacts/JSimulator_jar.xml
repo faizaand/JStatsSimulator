@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JSimulator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JSimulator_jar</output-path>
+    <root id="archive" name="JSimulator.jar">
+      <element id="module-output" name="JSimulator" />
+    </root>
+  </artifact>
+</component>
